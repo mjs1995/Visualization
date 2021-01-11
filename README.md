@@ -19,6 +19,9 @@
 ## 4) Circle
 ![제목 없는 디자인 (26)](https://user-images.githubusercontent.com/47103479/104158213-376d3780-5430-11eb-8e9a-61ebc41e8ed6.png)
 
+# 지도시각화_일본
+- 일본 도도부현에 따른 지도 시각화
+![제목 없는 디자인 (27)](https://user-images.githubusercontent.com/47103479/104178834-4bc02d00-544e-11eb-9304-d7406bff8418.png)
 
 
 # 레이더 차트
