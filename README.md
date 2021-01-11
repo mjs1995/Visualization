@@ -19,6 +19,11 @@
 ## 4) Circle
 ![제목 없는 디자인 (26)](https://user-images.githubusercontent.com/47103479/104158213-376d3780-5430-11eb-8e9a-61ebc41e8ed6.png)
 
+## 2) Cartogram 
+- 라벨링 된 지자체별 지도 시각화
+
+![제목 없는 디자인 (28)](https://user-images.githubusercontent.com/47103479/104179332-02241200-544f-11eb-8f92-2dcbeab27490.png)
+
 # 지도시각화_일본
 - 일본 도도부현에 따른 지도 시각화
 
