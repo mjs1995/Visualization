@@ -5,6 +5,7 @@
 
 ## 1) folium
 - 전체적인 지도 시각화
+
 ![제목 없는 디자인 (22)](https://user-images.githubusercontent.com/47103479/104158198-35a37400-5430-11eb-87eb-7556446093b9.png)
 - geojson파일 코드 추가로 추가정보 제공  
 ![제목 없는 디자인 (23)](https://user-images.githubusercontent.com/47103479/104158204-363c0a80-5430-11eb-9ab9-80948835c340.png)
