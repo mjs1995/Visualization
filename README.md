@@ -37,6 +37,7 @@
 ![제목 없음2](https://user-images.githubusercontent.com/47103479/104314072-3f0a0a80-551c-11eb-80b7-5c5e2e00ad21.png)
 
 - 점에 색상 부여
+
 ![제목 없음3](https://user-images.githubusercontent.com/47103479/104314074-3fa2a100-551c-11eb-8904-878ebe533679.png)
 
 ## 4) GraduatedCircleViz
