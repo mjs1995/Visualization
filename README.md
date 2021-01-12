@@ -1,5 +1,26 @@
 # Visualization
+This repository 'Visualization' is Data image visualization
+Below are the list of them with proper links.
 
+1.geocoding with 'folium', 'mapbox', 'Cartogram'
+  1.1 folium [[Link](https://github.com/mjs1995/Visualization/blob/main/%5B%EC%8B%9C%EA%B0%81%ED%99%94%5D%20%EC%A7%80%EB%8F%84%EC%8B%9C%EA%B0%81%ED%99%94_folium.ipynb)]
+    * using geojson, folium
+    * DualMap
+    * Cluster 
+    * Circle
+  1.2 Cartogram [[Link](https://github.com/mjs1995/Visualization/blob/main/%5B%EC%8B%9C%EA%B0%81%ED%99%94%5D%20%EC%A7%80%EB%8F%84%EC%8B%9C%EA%B0%81%ED%99%94_Cartogram.ipynb)]
+    * Korea map
+  1.3 mapbox [[Link](https://github.com/mjs1995/Visualization/blob/main/%5B%EC%8B%9C%EA%B0%81%ED%99%94%5D%20%EC%A7%80%EB%8F%84%EC%8B%9C%EA%B0%81%ED%99%94_mapbox.ipynb)]
+    * ChoroplethViz
+    * ChoroplethViz 3D
+    * CircleViz
+    * GraduatedCircleViz
+  1.4 japan map [[Link](https://github.com/mjs1995/Visualization/blob/main/%5B%EC%8B%9C%EA%B0%81%ED%99%94%5D%20%EC%A7%80%EB%8F%84%EC%8B%9C%EA%B0%81%ED%99%94_%EC%9D%BC%EB%B3%B8.ipynb)]
+
+2.Radar Chart in python [[Link](https://github.com/mjs1995/Visualization/blob/main/%5B%EC%8B%9C%EA%B0%81%ED%99%94%5D%20%EB%A0%88%EC%9D%B4%EB%8D%94%EC%B0%A8%ED%8A%B8.ipynb)]
+  2.1 Radar Chart 
+  2.2 Multiple Trace Radar Chart
+ 
 # 지도시각화_folium
 - geojson 파일을 json.load를 이용해서 데이터 읽기
 
