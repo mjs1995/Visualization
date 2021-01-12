@@ -24,6 +24,25 @@
 
 ![제목 없는 디자인 (28)](https://user-images.githubusercontent.com/47103479/104179332-02241200-544f-11eb-8f92-2dcbeab27490.png)
 
+# 지도시각화_mapbox
+- mapbox를 이용한 지도시각화
+
+## 1) ChoroplethViz
+![제목 없음](https://user-images.githubusercontent.com/47103479/104314069-3dd8dd80-551c-11eb-9aac-d94f207f0cc2.png)
+
+## 2) ChoroplethViz 3D
+![제목 없음1](https://user-images.githubusercontent.com/47103479/104314071-3f0a0a80-551c-11eb-9fe2-9c278929d34b.png)
+
+## 3) CircleViz
+![제목 없음2](https://user-images.githubusercontent.com/47103479/104314072-3f0a0a80-551c-11eb-80b7-5c5e2e00ad21.png)
+
+- 점에 색상 부여
+![제목 없음3](https://user-images.githubusercontent.com/47103479/104314074-3fa2a100-551c-11eb-8904-878ebe533679.png)
+
+## 4) GraduatedCircleViz
+![제목 없음4](https://user-images.githubusercontent.com/47103479/104314076-403b3780-551c-11eb-83be-b9cb53a37c11.png)
+
+
 # 지도시각화_일본
 - 일본 도도부현에 따른 지도 시각화
 
