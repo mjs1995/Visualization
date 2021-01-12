@@ -3,6 +3,7 @@ This repository 'Visualization' is Data image visualization
 Below are the list of them with proper links.
 
 1.geocoding with 'folium', 'mapbox', 'Cartogram'
+
   1.1 folium [[Link](https://github.com/mjs1995/Visualization/blob/main/%5B%EC%8B%9C%EA%B0%81%ED%99%94%5D%20%EC%A7%80%EB%8F%84%EC%8B%9C%EA%B0%81%ED%99%94_folium.ipynb)]
     * using geojson, folium
     * DualMap
