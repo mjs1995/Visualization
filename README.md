@@ -30,7 +30,7 @@ Below are the list of them with proper links.
     * Radar Chart 
     * Multiple Trace Radar Chart
  
-# 지도시각화_folium
+# Result
 - geojson 파일을 json.load를 이용해서 데이터 읽기
 
 ## 1) folium
