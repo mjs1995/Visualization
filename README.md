@@ -44,7 +44,9 @@ Below are the list of them with proper links.
 - 전체적인 지도 시각화
 
 ![제목 없음5](https://user-images.githubusercontent.com/47103479/104314671-1c2c2600-551d-11eb-95a8-3e8c1aa25ecc.png)
+
 - geojson파일 코드 추가로 추가정보 제공  
+
 ![제목 없음6](https://user-images.githubusercontent.com/47103479/104314676-1d5d5300-551d-11eb-927c-4e52e735f91c.png)
 
 ## 2) DualMap 을 이용한 지도 비교 
