@@ -23,7 +23,14 @@ Below are the list of them with proper links.
     * CircleViz
     * GraduatedCircleViz
   
-  1.4 japan map [[Link](https://github.com/mjs1995/Visualization/blob/main/%5B%EC%8B%9C%EA%B0%81%ED%99%94%5D%20%EC%A7%80%EB%8F%84%EC%8B%9C%EA%B0%81%ED%99%94_%EC%9D%BC%EB%B3%B8.ipynb)]
+  1.4 plotly [[Link](https://github.com/mjs1995/Visualization/blob/main/%5B%EC%8B%9C%EA%B0%81%ED%99%94%5D%20%EC%A7%80%EB%8F%84%EC%8B%9C%EA%B0%81%ED%99%94_plotly.ipynb)]
+    
+    * Choropleth map using plotly.express
+    * Choropleth map using plotly.graph_objects and carto base map
+    * Choropleth map using plotly.graph_objects and open-street-map
+    * Choropleth map using plotly.graph_objects and Mapbox Light base map
+
+  1.5 japan map [[Link](https://github.com/mjs1995/Visualization/blob/main/%5B%EC%8B%9C%EA%B0%81%ED%99%94%5D%20%EC%A7%80%EB%8F%84%EC%8B%9C%EA%B0%81%ED%99%94_%EC%9D%BC%EB%B3%B8.ipynb)]
 
 2.Radar Chart in python [[Link](https://github.com/mjs1995/Visualization/blob/main/%5B%EC%8B%9C%EA%B0%81%ED%99%94%5D%20%EB%A0%88%EC%9D%B4%EB%8D%94%EC%B0%A8%ED%8A%B8.ipynb)]
   
@@ -72,6 +79,21 @@ Below are the list of them with proper links.
 
 ## 4) GraduatedCircleViz
 ![제목 없음4](https://user-images.githubusercontent.com/47103479/104314076-403b3780-551c-11eb-83be-b9cb53a37c11.png)
+
+# 지도시각화_plotly
+- plotly를 이용한 지도시각화
+
+## 1) Choropleth map using plotly.express
+![제목 없음10](https://user-images.githubusercontent.com/47103479/104400854-6e5d5d80-5596-11eb-8465-d121aaccc234.png)
+
+## 2) Choropleth map using plotly.graph_objects and carto base map
+![제목 없음11](https://user-images.githubusercontent.com/47103479/104400857-6f8e8a80-5596-11eb-9395-55204e2e9b7f.png)
+
+## 3) Choropleth map using plotly.graph_objects and open-street-map
+![제목 없음12](https://user-images.githubusercontent.com/47103479/104400858-6f8e8a80-5596-11eb-9834-02cfb220a936.png)
+
+## 4) Choropleth map using plotly.graph_objects and Mapbox Light base map
+![제목 없음13](https://user-images.githubusercontent.com/47103479/104400860-70272100-5596-11eb-8cd2-0c9254ce9361.png)
 
 
 # 지도시각화_일본
